@@ -14,8 +14,8 @@ LULC-Classification-GEE/
 │
 ├── LICENSE
 ├── README.md
-    ├── lulc_worldcover_gee.js
-    └── SLOPE_ASPECT_HILLSHADE_gee.js
+├── lulc_worldcover_gee.js
+└── SLOPE_ASPECT_HILLSHADE_gee.js
 
 ## Requirements
 - Google Earth Engine account
