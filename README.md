@@ -1,10 +1,9 @@
-# LULC-Classification-GEE
-
-This repository contains Google Earth Engine (GEE) scripts for Land Use/Land Cover (LULC) classification using ESA WorldCover data.
+ Collection of Data from GEE
 
 ## Features
-- LULC classification using Google Earth Engine
+- Data collection using Google Earth Engine
 - ESA WorldCover dataset
+- SLOPE ASPECT HILLSHADE dataset
 - JavaScript scripts for GEE Code Editor
 - Easy to modify for different study areas
 
@@ -15,18 +14,13 @@ LULC-Classification-GEE/
 │
 ├── LICENSE
 ├── README.md
-└── Scripts/
-    └── lulc_worldcover_gee.js
-```
+    ├── lulc_worldcover_gee.js
+    └── SLOPE_ASPECT_HILLSHADE_gee.js
 
 ## Requirements
 - Google Earth Engine account
 - GEE Code Editor
 - Basic knowledge of JavaScript
 
-## Usage
-1. Open the Google Earth Engine Code Editor.
-2. Copy the script from `Scripts/lulc_worldcover_gee.js`.
-3. Modify the region of interest if needed.
-4. Run the script.
+
 
